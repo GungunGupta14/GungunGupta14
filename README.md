@@ -1,9 +1,7 @@
-### Hi there 👋
-
-![MasterHead](https://github.com/Vanya-1314/Vanya-1314/blob/main/banner.mp4)
+![MasterHead](https://github.com/Vanya-1314/Vanya-1314/blob/main/gungun%20banner.gif)
 <h1 align="center">Hi 👋, I'm Gungun Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Vanya-1314/Vanya-1314/blob/main/gungun.gif.mp4">
+<img align="right" alt="coding" width="400" src="https://github.com/Vanya-1314/Vanya-1314/blob/main/gungun.gif">
 
 - 🔭 I’m currently working on [Portfolio website](https://vanya-1314.github.io/gungungupta.github.io/)
 
