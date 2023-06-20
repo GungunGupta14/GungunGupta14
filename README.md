@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Vanya-1314/Vanya-1314/blob/main/gungun%20banner.gif)
 <h1 align="center">Hi 👋, I'm Gungun Gupta</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">A passionate developer from India..</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Vanya-1314/Vanya-1314/blob/main/gungun.gif">
 
 # 💫 About Me:
